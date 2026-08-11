@@ -6,6 +6,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Array
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Prefix Sum
@@ -16,4 +17,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
