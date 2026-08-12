@@ -8,6 +8,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Prefix Sum
@@ -38,4 +39,20 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+## Depth-First Search
+|  |
+| ------- |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+## Matrix
+|  |
+| ------- |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 <!---LeetCode Topics End-->
