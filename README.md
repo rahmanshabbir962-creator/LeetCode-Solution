@@ -55,4 +55,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
