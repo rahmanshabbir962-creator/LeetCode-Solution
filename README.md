@@ -26,6 +26,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Hash Table
 |  |
 | ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
@@ -63,4 +64,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
