@@ -26,6 +26,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -67,5 +68,10 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/1796-second-largest-digit-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
