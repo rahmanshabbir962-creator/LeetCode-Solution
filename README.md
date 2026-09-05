@@ -6,6 +6,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Array
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -29,6 +30,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0012-integer-to-roman](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/1796-second-largest-digit-in-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
@@ -80,4 +82,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/rahmanshabbir962-creator/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
